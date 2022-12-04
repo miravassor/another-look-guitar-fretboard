@@ -1,5 +1,5 @@
 # Another look at the guitar fretboard
-A (simple and logic) look at the guitar fretboard using memory tricks, colors and visual representation of the relation between notes.
+A (simple and logic) look at the guitar fretboard for beginners.
 
 This simple and straight-foward manual is meant to introduce to beginners the guitar fretboard (in standard E tuning).
 It is menat to facilitate the assimilation using memory tricks, colors and visual representation of the relation between notes on the fretboard.
