@@ -8,12 +8,12 @@
   You should understand the simple "12 divided notes" relationships of notes in the [chromatic scale scale](https://en.wikipedia.org/wiki/Chromatic_scale) (used in western music) before going on.  
   Make you sure that you get the reading direction of strings, the first one being the fattest one, the lower pitched E followed by the A string.  
   We could represent the strings ordered from farrest to you to closet (if you play a right-handed guitar) with  
-e |
-B |
-G |
-D |
-A |
-E |
+e |  
+B |  
+G |  
+D |  
+A |  
+E |  
   
 ## Practical definitions
   Open string : an open string is a string strummed while playing a chord without any finger on that particular string.  
