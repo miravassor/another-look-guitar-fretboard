@@ -24,17 +24,19 @@ E |
 
 ## The 2 semi-tones pattern
   The 2 semi-tones pattern simply means that the interval between all natural notes is 2 semi-tones (2 semitones = 1 tone) apart, except from B to C and E to F.  
+  
   The break column correspond to the frets at which the 2 semi-tones patterns breaks (so B-C and E-F).
   1st (E)/ 5th (B)/ 6th (E) strings : "starts" respectively at fret #1 because their previous (root) notes are E - B - E (= one semi-tone from the open string note).  
+  
   2nd / 3rd / 4th strings  : "starts" respectively at fret #2 because their previous (root) notes are A - D - G. (= one tone from the open string note).  
 
 ## Tones
   This simple array represents the guitar fretboard. We will be using this scheme all manual. 
-  This particular one displays the intervals between naturals notes.
-    T : 1 tone
-    S : 1 semi-tone
-  The first and last column shows frets position and the 3, 5, 7, 9 & 12 frets (marked ones on the fretboard) are light-grey higlighted.
-  The often circle(s) present at this frets are here to help you find your position down the neck. 
+  This particular one displays the intervals between naturals notes. 
+    T : 1 tone  
+    S : 1 semi-tone  
+  The first and last column shows frets position and the 3, 5, 7, 9 & 12 frets (marked ones on the fretboard) are light-grey higlighted.  
+  The often circle(s) present at this frets are here to help you find your position down the neck.  
 
 ![alt text](https://github.com/samsepi0lr/another-look-guitar-fretboard/blob/main/img/tones.jpg)
 
