@@ -9,4 +9,4 @@ Let’s focus on the 7 natural notes (the white piano keys : C-D-E-F-G-A-B) in t
 Break correspond to the frets at which the 2 semi-tones patterns breaks (B-C and E-F are only one semi-tones apart).
 1st / 5th / 6th strings : start respectively at fret #1 because their previous (root) notes are E - B - E.
 
-![alt text]([https://github.com/samsepi0lr/another-look-guitar-fretboard/img/fretboard_array.jpg](https://github.com/samsepi0lr/another-look-guitar-fretboard/blob/main/img/fretboard_array.jpg)?raw=true)
+![alt text](https://github.com/samsepi0lr/another-look-guitar-fretboard/blob/main/img/fretboard_array.jpg)?raw=true)
