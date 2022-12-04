@@ -10,3 +10,5 @@ Break correspond to the frets at which the 2 semi-tones patterns breaks (B-C and
 1st / 5th / 6th strings : start respectively at fret #1 because their previous (root) notes are E - B - E.
 
 <img src="another-look-guitar-fretboard/img/fretboard_array.jpg" alt="1" title="1">
+
+![alt text](https://github.com/samsepi0lr/another-look-guitar-fretboard/img/fretboard_array.jpg?raw=true)
