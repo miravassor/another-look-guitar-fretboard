@@ -11,9 +11,9 @@ Break column correspond to the frets at which the 2 semi-tones patterns breaks (
 
 ## Fretboard as an array
 This array represent the notes sorted by fret apparition (use the infos box down below to read it).
-![alt text](https://github.com/samsepi0lr/another-look-guitar-fretboard/blob/main/img/fretboard_array.jpg)
-![alt text](https://github.com/samsepi0lr/another-look-guitar-fretboard/blob/main/img/fretboard_code.jpg)
+![alt text](https://github.com/samsepi0lr/another-look-guitar-fretboard/blob/main/img/array.jpg)
+![alt text](https://github.com/samsepi0lr/another-look-guitar-fretboard/blob/main/img/infos.jpg)
 
 ## Fretboard notes
 This array represent the notes sorted by color.
-![alt text](https://github.com/samsepi0lr/another-look-guitar-fretboard/blob/main/img/fretboard_note.jpeg)
+![alt text](https://github.com/samsepi0lr/another-look-guitar-fretboard/blob/main/img/notes.jpg)
