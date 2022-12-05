@@ -67,7 +67,7 @@ The red E (aka E0) is the E open string. Going down 12th fret gives us the octav
 The same note is found using the +12/-5(up) semi-tones formula on the A string.  
 Both E12 and A7 have the exact same pitch !  
 
-At the 7th fret you find the octave of the previous string, __except for the G__, wich is found 1 semi-tone after, on __fret 8__.  
+Going a step further, the 7th fret you find the octave of the previous string, __except for the G__, wich is found 1 semi-tone after, on __fret 8__.  
 
 ![alt text](https://github.com/mirawired/another-look-guitar-fretboard/blob/main/img/octa2.png)  
 
