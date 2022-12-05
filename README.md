@@ -5,7 +5,7 @@
   It is meant to facilitate the assimilation using memory tricks, colors and visual representation of the relation between notes on the fretboard (the last being respresented as an array).  
 
 ## Pre-requisite
-  You should understand the simple "12 divided notes" relationships of notes in the [chromatic scale scale](https://en.wikipedia.org/wiki/Chromatic_scale) (used in western music) before going on.  
+  You should understand the simple "12 divided notes" relationships of notes in the [chromatic scale](https://en.wikipedia.org/wiki/Chromatic_scale) (used in western music) before going on.  
   Make you sure that you get the reading direction of strings, the first one being the fattest one, the lower pitched E followed by the A string.  
   We could represent the strings ordered from farrest to you to closet (if you play a right-handed guitar) with  
 ```c
@@ -16,16 +16,22 @@ D ||-|-|-|-|-|-|-|-|-|-|-|-|
 A ||-|-|-|-|-|-|-|-|-|-|-|-|
 E ||-|-|-|-|-|-|-|-|-|-|-|-|
 ```
+
+## Quick cheatsheet
+* 1 octave = 12 notes *(C-C#-D-D#-E-F-F#-G-G#-A-A#-B)*
+* The twelve notes of the octave are all the black and white keys in one octave on the piano—form the [chromatic scale](https://en.wikipedia.org/wiki/Chromatic_scale) 
+* 12 semi-tones in an octave  
+* 2 semi-tones = 1 tone  
   
 ## Practical definitions
   Open string : an open string is a string strummed while playing a chord without any finger on that particular string.  
-    ex: the E Major triad where only 3 fingers are on strings but all strings are strummed.  
+    *ex: the E Major triad where only 3 fingers are on strings but all strings are played.*
 
 ## Key points
   First, let's focus on the 7 natural notes (aka the white piano keys : C-D-E-F-G-A-B), it will helps reduce the amount of information to grasp.  
 
 ## The 2 semi-tones pattern
-  The 2 semi-tones pattern simply means that the interval between all natural notes is 2 semi-tones (2 semitones = 1 tone) apart, except from B to C and E to F.   
+  The 2 semi-tones pattern simply means that the interval between all natural notes is 2 semi-tones apart, except from B to C and E to F.   
   
   1st (E)/ 5th (B)/ 6th (E) strings : "starts" respectively at fret #1 because their previous (root) notes are E - B - E (= one semi-tone from the open string note).  
   
