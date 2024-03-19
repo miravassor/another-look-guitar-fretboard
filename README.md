@@ -1,5 +1,5 @@
 # Another look at the guitar fretboard
-  A look at the guitar fretboard for beginners or more advanced player.  
+  A look at the guitar fretboard for beginners.  
   
   This simple and straight-foward manual is meant as an introduction for guitar players curious about diving into the guitar fretboard (in standard E tuning).  
   
