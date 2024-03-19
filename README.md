@@ -88,11 +88,6 @@ Going a step further, at the 7th fret you find the octave of the previous string
   This array represent all the naturals note with a single color for each.  
 ![alt text](https://github.com/mirawired/another-look-guitar-fretboard/blob/main/img/notes.png)
 
-## Most common major/minor triads composition
-
-## Bonus : The perfect Tetris
-Maybe my fav, if you play tetris with the right at bottom, you score big time!
-
 ### Appendix
 
 ## Left Handed guitars
